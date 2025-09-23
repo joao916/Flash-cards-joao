@@ -37,12 +37,12 @@ criaCartao(
 criaCartao(
 'paraná',
 'Que tipo de dança típica do litoral paranaense é Patrimônio Imaterial do estado?'
-'A Dança do Fandango'
+'A dança do fandango'
 )
 criaCartao(
 'paraná',
 'Que grande área verde em Curitiba homenageia a comunidade japonesa?'
-'O Jardim Botânico de Curitiba.'
+'O jardim botanico de curitiba.'
 )
 criaCartao(
 'paraná',
