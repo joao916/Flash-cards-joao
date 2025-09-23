@@ -64,8 +64,8 @@ gap: 3rem;
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
-    background-color: var(--cor-fundo-cartao)
-    border:4px solid(var(--cor-da-borda);
+    background-color: var(--cor-fundo-cartao);
+    border: 4px solid var(--cor-da-borda);
 }
 
 .cartao__conteudo__pergunta p {
@@ -76,10 +76,9 @@ gap: 3rem;
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
     font-weight: 700;
-
 }
 
-.cartao:active .cartao__conteudo {
+.cartao.active .cartao__conteudo {
     transform: rotateY(180deg);
 }
 
