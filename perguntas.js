@@ -17,7 +17,7 @@ criaCartao(
 criaCartao(
 'brazil',
 'Quais são as cores da bandeira brasileira?',
-'As cores da bandeira brasileira são: Verde, Amarelo, Azul.
+'As cores da bandeira brasileira são: Verde, Amarelo, Azul.'
 )
 criaCartao(
 'PARANÁ',
@@ -36,12 +36,12 @@ criaCartao(
 )
 criaCartao(
 'paraná',
-'Que tipo de dança típica do litoral paranaense é Patrimônio Imaterial do estado?'
-'A dança do fandango'
+'Que tipo de dança típica do litoral paranaense é Patrimônio Imaterial do estado?',
+' A dança do fandango'
 )
 criaCartao(
 'paraná',
-'Que grande área verde em Curitiba homenageia a comunidade japonesa?'
+'Que grande área verde em Curitiba homenageia a comunidade japonesa?',
 'O jardim botanico de curitiba.'
 )
 criaCartao(
