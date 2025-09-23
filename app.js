@@ -17,8 +17,11 @@ let respostaEstaVisivel = false
 
 function viraCartao(){
     respostaEstaVisivel=!
-
+cartao.classList.toggle('active',respostaEstaVisivel)
 }
+
+
+cartao.addEventListener('click',viraCartao)
 
 conteiner.appendChild(cartao)
 
